@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Follow the steps below to run this repo.
 1. Clone the repo.
 ```bash
-git clone https://github.com/makeuseofcode/react-collapsible-navbar
+git clone https://github.com/swaroop-19/Infoviz.git
 ```
 2. Install the necessary dependencies.
 ```bash
