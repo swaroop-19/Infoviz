@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Infoviz/static/css/main.efa82c7d.css",
+    "main.js": "/Infoviz/static/js/main.3c91e10d.js",
+    "index.html": "/Infoviz/index.html",
+    "main.efa82c7d.css.map": "/Infoviz/static/css/main.efa82c7d.css.map",
+    "main.3c91e10d.js.map": "/Infoviz/static/js/main.3c91e10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efa82c7d.css",
+    "static/js/main.3c91e10d.js"
+  ]
+}
