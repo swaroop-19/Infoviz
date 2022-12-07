@@ -1,4 +1,3 @@
-import { Typography } from '@mui/material';
 import React,{useRef, useEffect} from 'react'
 
 const {tableau} = window;
@@ -17,7 +16,6 @@ export default function Home() {
 
   return (
     <div>
-      <Typography> </Typography>
       <div ref={ref}></div>
     </div>
   );
